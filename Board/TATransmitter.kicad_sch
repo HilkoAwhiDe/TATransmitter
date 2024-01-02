@@ -800,7 +800,7 @@
     (pin "2" (uuid f640cb62-aeb1-48ca-9113-ada922fb82a9))
     (pin "1" (uuid 6bdba4d3-7fd2-44ac-a9f6-d8932de8630d))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R7") (unit 1)
         )
@@ -825,7 +825,7 @@
     )
     (pin "1" (uuid b89a34d5-846d-4046-8dac-cf7d2c73034e))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR011") (unit 1)
         )
@@ -854,7 +854,7 @@
     (pin "2" (uuid 5a529ffd-8e3b-4da3-b348-ee4134741d67))
     (pin "1" (uuid 3c686fd9-1cf7-444d-9e92-d83e958321d5))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R3") (unit 1)
         )
@@ -879,7 +879,7 @@
     )
     (pin "1" (uuid e11cd9ce-2894-4335-a406-cd68ee4a38f4))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR08") (unit 1)
         )
@@ -893,7 +893,7 @@
     (property "Reference" "R6" (at 165.1 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2k" (at 165.1 48.26 0)
+    (property "Value" "5k" (at 165.1 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 160.782 46.99 90)
@@ -908,7 +908,7 @@
     (pin "2" (uuid 765c60ef-e124-4a3c-ae33-02fec00d8b89))
     (pin "1" (uuid 956bd6f1-a04e-41cc-bb41-b771057a7ac3))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R6") (unit 1)
         )
@@ -970,7 +970,7 @@
     (pin "7" (uuid 274220b1-6593-4e56-b6a8-332c3212c7c1))
     (pin "21" (uuid 9ce9df89-4758-4f05-80d8-37ad44f2386a))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "U1") (unit 1)
         )
@@ -999,7 +999,7 @@
     (pin "1" (uuid ea60bf84-1495-433d-9043-57f55a1b2350))
     (pin "2" (uuid ec2412b2-d1f4-4f5e-af24-7c5ae48b4c80))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R4") (unit 1)
         )
@@ -1028,7 +1028,7 @@
     (pin "2" (uuid 5e757596-1658-4d1a-931a-ec634b1c9363))
     (pin "1" (uuid a887760c-b797-4651-833e-e6eeffec45a4))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R1") (unit 1)
         )
@@ -1053,7 +1053,7 @@
     )
     (pin "1" (uuid 58aef12b-6f26-47c4-a00a-8431a2a9e439))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR01") (unit 1)
         )
@@ -1082,7 +1082,7 @@
     (pin "2" (uuid 7123be1f-36fd-457a-b60c-29c0cead8815))
     (pin "1" (uuid 9e0c28ca-6779-4b8a-8570-71606e147e7e))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R5") (unit 1)
         )
@@ -1107,7 +1107,7 @@
     )
     (pin "1" (uuid fefd1aec-35d1-4005-9ecf-c231345d7480))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR05") (unit 1)
         )
@@ -1132,7 +1132,7 @@
     )
     (pin "1" (uuid d16c4543-b299-42de-ae87-b30bc669c8b3))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR03") (unit 1)
         )
@@ -1166,7 +1166,7 @@
     (pin "6" (uuid b453130d-6559-421f-954a-9d56fa5adb7e))
     (pin "3" (uuid 07419ea8-b7ca-41d6-9d80-a77aa3934184))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "U2") (unit 1)
         )
@@ -1191,7 +1191,7 @@
     )
     (pin "1" (uuid b907b818-7b97-426d-9fb2-89a78a83172f))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR07") (unit 1)
         )
@@ -1220,7 +1220,7 @@
     (pin "2" (uuid 84e49a1e-fdf7-444d-a540-972b4cad4d9c))
     (pin "1" (uuid 4120dc96-5d75-4c04-8d4c-ec0851d529a6))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "R2") (unit 1)
         )
@@ -1245,7 +1245,7 @@
     )
     (pin "1" (uuid 66701253-a4dd-4081-a17e-ea140638e877))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR09") (unit 1)
         )
@@ -1274,7 +1274,7 @@
     (pin "1" (uuid c2b584fb-f299-4ac0-9d14-9f7b70bb0f0b))
     (pin "2" (uuid 14daca80-995e-4558-bc01-e8265bc220f5))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "C1") (unit 1)
         )
@@ -1299,7 +1299,7 @@
     )
     (pin "1" (uuid 7ffa9c61-96e6-4756-be81-46ec6d4e2fd3))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR04") (unit 1)
         )
@@ -1324,7 +1324,7 @@
     )
     (pin "1" (uuid 053d718f-5c09-4b7c-9d5a-7f6e2ea1c3d4))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR06") (unit 1)
         )
@@ -1349,7 +1349,7 @@
     )
     (pin "1" (uuid 162a041b-5f3a-42ca-9f88-da0d1c0d98bb))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "#PWR02") (unit 1)
         )
@@ -1376,7 +1376,7 @@
     (pin "3" (uuid 0f6dfc5f-3f5d-4d3c-8344-67d57ba07206))
     (pin "1" (uuid 6de4f1a1-de46-41fa-addc-0a21eae8bf02))
     (instances
-      (project "ESP32"
+      (project "TATransmitter"
         (path "/6bca0369-8be4-4b0a-98a0-8352f7b9aa16"
           (reference "J1") (unit 1)
         )
